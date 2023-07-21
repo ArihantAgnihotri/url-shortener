@@ -4,7 +4,7 @@ URL Shortener is a web application that allows you to generate short and managea
 
 ## Deployment
 
-If you don't want to waste time going through installation, I got you covered. Access the demo of this app here: https://fubsy.vercel.app
+If you don't want to waste time going through installation, I got you covered. Access the demo of this app here: https://forsen.vercel.app
 
 ## Installation
 
